@@ -1,9 +1,9 @@
 # Hi there, I'm `Zaid Hafeez` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
  ## About 👋
-> 🎓I am a **geek**.<br>
-> 🎓I am a ~~coder~~ `Developer`.<br>
-> I am learning DSA and DevOPs.<br>
-> Want to explore myself as much as I can.<br>
+> 🎓 I am a **geek**.<br>
+> 🎓 I am a ~~coder~~ `Developer`.<br>
+>:sparkler: I am learning DSA and DevOPs.<br>
+> :arrow_forward: Want to explore myself as much as I can.<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=app%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
