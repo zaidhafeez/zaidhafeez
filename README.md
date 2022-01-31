@@ -1,5 +1,7 @@
 # Hi there, I'm `Zaid Hafeez` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+"***Consistency is the key of Success.***"
+
  <a href="https://github.com/zaidhafeez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
  ## About 👋
@@ -7,6 +9,8 @@
 > 🎓 I am a ~~coder~~ `Developer`.<br>
 >:sparkler: I am learning DSA and DevOPs.<br>
 > :arrow_forward: Want to explore myself as much as I can.<br>
+
+
 
 ## **Reach Out To Me**
 <!-- <a href="www.linkedin.com/in/mohammad-zaid"> -->
