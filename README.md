@@ -32,6 +32,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+
+
+
 <br />
 <br />
 
@@ -60,6 +63,9 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhafeez&show_icons=true&theme=tokyonight" />
 <p/>
 
+<div align="center">
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
 
