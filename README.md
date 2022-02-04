@@ -4,7 +4,7 @@
  <a href="https://github.com/zaidhafeez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
  ## About 👋
-<img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" />
+<img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" /><br>
 > 🎓 I am a **geek**.<br>
 > 🎓 I am a ~~coder~~ `Developer`.<br>
 >:sparkler: I am learning DSA and DevOPs.<br>
