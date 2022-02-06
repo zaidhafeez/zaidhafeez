@@ -6,7 +6,7 @@
  ## About 👋
 <img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" /><br>
  🎓 I am a **geek**.<br>
- 🎓 I am a ~~coder~~ `Developer`.<br>
+ ⚓ I am a ~~coder~~ `Developer`.<br>
  :sparkler: I am learning DSA and DevOPs.<br>
  :arrow_forward: Want to explore myself as much as I can.<br>
 
