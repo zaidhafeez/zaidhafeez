@@ -5,12 +5,13 @@
 
  ## About 👋
 <!-- <img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" /><br> -->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /><br>
- 🎓 I am a **geek**.
- ⚓ I am a ~~coder~~ `Developer`.
- :sparkler: I am learning DSA and DevOPs.
- :arrow_forward: Want to explore myself as much as I can.
-   "***Consistency is the key of Success.***"
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="225" /><br>
+ - 🎓 I am a **geek**.
+ - ⚓ I am a ~~coder~~ `Developer`.
+ - :sparkler: I am learning DSA and DevOPs.
+ - :arrow_forward: Want to explore myself as much as I can.
+  
+  "***Consistency is the key of Success.***"
 
 
 
