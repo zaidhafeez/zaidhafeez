@@ -4,12 +4,12 @@
  <a href="https://github.com/zaidhafeez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
  ## About 👋
-<img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" /><br>
- 🎓 I am a **geek**.<br>
- ⚓ I am a ~~coder~~ `Developer`.<br>
- :sparkler: I am learning DSA and DevOPs.<br>
- :arrow_forward: Want to explore myself as much as I can.<br>
-
+<!-- <img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" /><br> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /><br>
+ 🎓 I am a **geek**.
+ ⚓ I am a ~~coder~~ `Developer`.
+ :sparkler: I am learning DSA and DevOPs.
+ :arrow_forward: Want to explore myself as much as I can.
    "***Consistency is the key of Success.***"
 
 
