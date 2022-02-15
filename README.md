@@ -1,5 +1,7 @@
 # Hi there, I'm `Zaid Hafeez` <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" width = "200" height = "100"/>
 
+<!-- <img align ="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> -->
 
  <a href="https://github.com/zaidhafeez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=App%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
@@ -16,7 +18,7 @@
 
 
 
-## **Reach Out To Me**
+## 📫 **Reach Out To Me**
 <!-- <a href="www.linkedin.com/in/mohammad-zaid"> -->
 <!--   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a> -->
@@ -30,10 +32,8 @@
 </a> -->
 
 <p align="left">
-  <a href="https://twitter.com/mohd_981"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="zaid.kpj@gmail.com"><img width="32px" alt="Gmail" title="gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/mohd_981"><img align="left" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+ <a href="zaid.kpj@gmail.com"><img align="left" width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </p>
 
 
