@@ -7,7 +7,7 @@
 
  ## About 👋
 <!-- <img align = "right" src="https://media.giphy.com/media/ZoEzx25hwgxM94Zq0d/giphy.gif" width="210" /><br> -->
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="225" /><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="240" /><br>
  - 🎓 I am a **geek**.
  - :desktop_computer: I am a ~~coder~~ `Developer`.
  - :books: I am learning DSA and DevOPs.
