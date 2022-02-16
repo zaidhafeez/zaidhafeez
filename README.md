@@ -13,7 +13,8 @@
  - :books: I am learning DSA and DevOPs.
  - :satellite: Want to explore myself as much as I can.
   
-  "***Consistency is the key of Success.***"
+  - "***Consistency is the key of Success.***"
+  - "***Want to achieve your dream so just START towards your dream.***"
 
 
 
